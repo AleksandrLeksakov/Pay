@@ -1,4 +1,4 @@
-
+pakage ru.netology
 
 fun calculateCommission(cardType: String = "Мир",
                         previousMonthTransfers: Long = 0,
